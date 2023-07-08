@@ -1,0 +1,24 @@
+/* FileUpload.css */
+.file-upload {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .file-upload h2 {
+    margin-bottom: 10px;
+  }
+  
+  .file-upload input[type="file"] {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  
+  .file-upload button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
